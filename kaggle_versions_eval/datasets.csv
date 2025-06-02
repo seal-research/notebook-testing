@@ -1,0 +1,7 @@
+dataset_name,filename,local_path
+spaceship-titanic,train.csv,USER\jupyterDownload\workplace\kaggleNotebooks\spaceship\train.csv
+spaceship-titanic,test.csv,USER\jupyterDownload\workplace\kaggleNotebooks\spaceship\test.csv
+spaceship-titanic,sample_submission.csv,USER\jupyterDownload\workplace\kaggleNotebooks\spaceship\sample_submission.csv
+digit-recognizer,train.csv,USER\jupyterDownload\workplace\kaggleNotebooks\digits\train.csv
+digit-recognizer,test.csv,USER\jupyterDownload\workplace\kaggleNotebooks\digits\test.csv
+digit-recognizer,sample_submission.csv,USER\jupyterDownload\workplace\kaggleNotebooks\digits\sample_submission.csv

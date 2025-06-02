@@ -1,0 +1,14 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "nbtest"
+version = "0.1.0"
+description = "Pytest plugin for testing Jupyter Notebooks"
+classifiers = [
+    "Framework :: Pytest",
+]
+
+[project.entry-points.pytest11]
+nbtest = "nbtest.conftest"

@@ -1,0 +1,8 @@
+pandas
+numpy
+pytest
+nbformat
+jupyter-client
+ipykernel
+selenium
+webdriver-manager

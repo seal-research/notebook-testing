@@ -1,0 +1,10 @@
+__pycache__
+.pytest_cache
+outputs/
+./test_pickl.py
+./run.sh
+./log.txt
+./run.sh
+examples/
+./properties/test.py
+./properties/test2.py
