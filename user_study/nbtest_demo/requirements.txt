@@ -1,0 +1,7 @@
+numpy<2
+pandas
+tensorflow==2.14.0
+scikit-learn
+jupyter
+-e ../../nbtest_plugin
+-e ../../nbtest_lab_extension
